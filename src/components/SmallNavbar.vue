@@ -133,7 +133,7 @@ const handleNavigation = (): void => {
                   :key="`locale-${locale}`"
                   :value="locale"
                 >
-                  {{ locale }}
+                  {{ locale.toUpperCase() }}
                 </option>
               </select>
               :{{ $t('Nav["lang"]') }}

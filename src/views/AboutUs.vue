@@ -110,7 +110,7 @@ const ENobjectives = [
   <div class="bg-[#0B6D90] lg:bg-white">
     <!-- Hero Section with Fixed Background -->
     <div
-      class="lg:hero-section lg:bg-bottom hero-sectionSM lg:bg-about bg-aboutSmall md:h-[951px] w-full relative mb-8"
+      class="lg:hero-section lg:bg-bottom hero-sectionSM lg:bg-about bg-aboutSmall w-full relative mb-8"
     >
       <div class="absolute inset-0"></div>
       <div class="hidden lg:block">
